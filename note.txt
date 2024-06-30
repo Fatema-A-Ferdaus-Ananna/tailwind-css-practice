@@ -1,0 +1,16 @@
+install from CDN -- can't customize 
+
+install postCSS plugin -- complex
+
+install tailwind with CLI -- using comand line --- comand line interface
+  prerequisites -- Node.js >= 12.3.0
+
+  npm init -y --- inatialize node projecr
+
+  npm i -D tailwindcss -- D- developer, install tailwind as developer dependency 
+
+  npx tailwindcss init -- create config file
+
+  npm run build -- build tailwind
+
+  
