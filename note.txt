@@ -14,3 +14,8 @@ install tailwind with CLI -- using comand line --- comand line interface
   npm run build -- build tailwind
 
   
+  instalation of postcss---
+
+  npm i postcss postcss-cli autoprefixer -- install
+
+  npx tailwindcss init -p  -- add postcss configeration file
